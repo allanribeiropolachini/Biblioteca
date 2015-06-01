@@ -13,7 +13,7 @@ Os arquivos .java estão localizados em src/sistemabiblioteca
 O arquivo .jar esta localizado em dist
 
 ->Instruções:
-Para executar o sistema da biblioteca, basta executar o 'SistemaBiblioteca.class'(colocando todos os .class no mesmo diretorio) passando a data (formato "dia mes ano") por argumento.
+Para executar o sistema da biblioteca, basta executar o SistemaBiblioteca.class (colocando todos os .class no mesmo diretorio) passando a data (formato "dia mes ano") por argumento.
 
 Outra maneira de executar é atraves do netbeans, criando um projeto com os arquivos: Aluno.java, Biblioteca.java, Livro.java, NaoEstudante.java, Pessoa.java, Professor.java e SistemaBiblioteca.java, alem de colocar como argumentos nas propriedades do projeto a data (formato "dia mes ano"). Depois so compilar/executar.
 
