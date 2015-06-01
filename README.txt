@@ -10,7 +10,7 @@ Os arquivos .class estão localizados na pasta build/classes/sistemabiblioteca
 
 Os arquivos .java estão localizados em src/sistemabiblioteca
 
-O arquivo .jar esta localizado em dist/sistemabiblioteca
+O arquivo .jar esta localizado em dist
 
 ->Instruções:
 Para executar o sistema da biblioteca, basta executar o 'SistemaBiblioteca.class' passando a data (formato "dia mes ano") por argumento.
